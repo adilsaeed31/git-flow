@@ -10,3 +10,4 @@ Test Bug Fix
 Feature SMS Logging
 SMS Release 0.0.8
 Fixed Bug
+Fix hotfix
