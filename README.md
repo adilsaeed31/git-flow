@@ -7,3 +7,5 @@ Added 5
 Added bugfix
 Added 0.0.6
 Test Bug Fix
+Feature SMS Logging
+SMS Release 0.0.8
